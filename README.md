@@ -10,7 +10,9 @@ El proyecto trata de un formulario con las siguientes indicaciones:
 
 los datos se guardarán en el localStorage del navegador, así que toda la vista, creación, edición y eliminación de datos se hará dentro del navegador.
 
-## Instalar paquetes
+## Ejecución Aplicación
+Los siguientes pasos describen como ejecutar la aplicación.
+### Instalación de paquetes
 Primero hay que instalar los paquetes con los que el servidor ejecutará las rutinas. Para realizar esto, en una ventana de comandos ("Command", "MS-DOS", "Console" "GitBash", etc), dirigirse a la carpeta donde se encuentra el proyecto y digitar el siguiente comando:
 ```
 npm install
