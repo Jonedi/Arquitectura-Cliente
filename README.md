@@ -32,4 +32,4 @@ npm run build
 ```
 
 ### Desarrollado por Jon Tmarz
-Ver [más proyectos](https://github.com/Jonedi).
+Ver [más proyectos](https://jontmarz.appetz.com/).
