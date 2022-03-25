@@ -1,5 +1,5 @@
-# Cliente/Servidor
-El siguiente proyecto se desarrollo para cumplir con la actividad 3 de la Unidad 1 de la materia Arquitectura de Software.
+# Arquitectura basada en Cliente
+El siguiente proyecto se desarrollo para cumplir con la actividad 4 de la Unidad 1 de la materia Arquitectura de Software.
 
 El proyecto trata de un formulario con las siguientes indicaciones:
 
@@ -13,13 +13,13 @@ los datos se guardarán en el localStorage del navegador, así que toda la vista
 ## Ejecución Aplicación
 Los siguientes pasos describen como ejecutar la aplicación.
 ### Instalación de paquetes
-Primero hay que instalar los paquetes con los que el servidor ejecutará las rutinas. Para realizar esto, en una ventana de comandos ("Command", "MS-DOS", "Console" "GitBash", etc), dirigirse a la carpeta donde se encuentra el proyecto y digitar el siguiente comando:
+Primero hay que instalar los paquetes con los que se ejecutarán las rutinas. Para realizar esto, en una ventana de comandos ("Command", "MS-DOS", "Console" "GitBash", etc), dirigirse a la carpeta donde se encuentra el proyecto y digitar el siguiente comando:
 ```
 npm install
 ```
 
 ### Compilar e iniciar servidor para desarollo
-Una vez terminada la instalación de paquetes, el siguiente paso es iniciar el servidor escribiendo el comando en la ventana de comandos:
+Una vez terminada la instalación de paquetes, el siguiente paso es iniciar el servicio escribiendo el siguiente comando en la ventana de comandos:
 ```
 npm run serve
 ```
